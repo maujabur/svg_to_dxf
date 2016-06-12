@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# MJ Custom
+*.bak
+*.BAK
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
